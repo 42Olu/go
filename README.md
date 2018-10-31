@@ -20,7 +20,7 @@ The stone textures were drawn by Brandon Fobugwe.
     &nbsp;&nbsp;&nbsp;&nbsp;~4a. function to get all stones of a group~\
     &nbsp;&nbsp;&nbsp;&nbsp;~4b. function to count freedom of a group~\
     &nbsp;&nbsp;&nbsp;&nbsp;4c. checking for Ko\
-5. capturing stones\
+~5. capturing stones~\
 6. counting the points at the end\
     &nbsp;&nbsp;&nbsp;&nbsp;6a. marking dead groups\
 ...\

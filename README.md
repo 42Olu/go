@@ -8,20 +8,20 @@ The stone textures were drawn by Brandon Fobugwe.
 
 # TODO
 ~1. simple structures for the game~\
-    ~1a. Board class~\
-    ~1b. game loop~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~1a. Board class~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~1b. game loop~\
 ~2. GUI~\
-    ~2a. boards~\
-    ~2b. turn counter~\
-    ~2c. function to print text under the board~\
-    ~2d. capture counters~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~2a. boards~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~2b. turn counter~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~2c. function to print text under the board~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~2d. capture counters~\
 ~3. inputs through the GUI~\
 4. check for invalid moves\
-    ~4a. function to get all stones of a group~\
-    ~4b. function to count freedom of a group~\
-    4c. checking for Ko\
+    &nbsp;&nbsp;&nbsp;&nbsp;~4a. function to get all stones of a group~\
+    &nbsp;&nbsp;&nbsp;&nbsp;~4b. function to count freedom of a group~\
+    &nbsp;&nbsp;&nbsp;&nbsp;4c. checking for Ko\
 5. capturing stones\
 6. counting the points at the end\
-    6a. marking dead groups\
+    &nbsp;&nbsp;&nbsp;&nbsp;6a. marking dead groups\
 ...\
 7. AI
